@@ -12,12 +12,13 @@ output:
   postcards::jolla
 ---
 
-#### Bio 
+#### **Bio** 
 
 I am interested in gene regulation, evolution and bioinformatics.
 
-#### Education
+#### **Education**
 
 Undergraduate student of genomics sciences at @[LIIGH_UNAM](https://twitter.com/LIIGH_UNAM) @[Enes_Juriquilla](https://twitter.com/EnesJuriquilla).
+
 
 
