@@ -1,0 +1,23 @@
+---
+title: "Moni Padilla"
+image: "twitter_photo.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/mpadilla905/"
+  - label: GitHub
+    url: "https://github.com/mpadilla905/"
+  - label: Email
+    url: "mailto:mpadilla@lcgej.unam.mx"
+output:
+  postcards::jolla
+---
+
+#### Bio 
+
+I am interested in gene regulation, evolution and bioinformatics.
+
+#### Education
+
+Undergraduate student of genomics sciences at @[LIIGH_UNAM](https://twitter.com/LIIGH_UNAM) @[Enes_Juriquilla](https://twitter.com/EnesJuriquilla).
+
+
