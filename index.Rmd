@@ -1,16 +1,20 @@
 ---
-title: "Moni Padilla"
+title: "Monica Padilla"
 image: "twitter_photo.jpg"
 links:
-  - label: Twitter
+  - label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")` Twitter'
     url: "https://twitter.com/mpadilla905/"
-  - label: GitHub
+  - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
     url: "https://github.com/mpadilla905/"
-  - label: Email
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
     url: "mailto:mpadilla@lcgej.unam.mx"
 output:
   postcards::jolla
 ---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
 
 #### **Bio** 
 
